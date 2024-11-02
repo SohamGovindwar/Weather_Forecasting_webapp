@@ -1,7 +1,3 @@
-Here’s a concise `README.md` for your project:
-
----
-
 # Weather Forecasting Web App
 
 A responsive web app that provides real-time weather updates with secure API integration.
